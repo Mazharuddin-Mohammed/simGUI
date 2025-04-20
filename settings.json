@@ -1,0 +1,17 @@
+{
+    "theme": "light",
+    "recent_files": [
+        "/home/madmax/Documents/augment-projects/GUI/newsec.simproj"
+    ],
+    "performance": {
+        "vsync": true,
+        "max_fps": 60
+    },
+    "debug_overlay": {
+        "show_fps": true,
+        "show_memory": false,
+        "show_device_info": false,
+        "enabled": true
+    },
+    "log_level": "info"
+}
