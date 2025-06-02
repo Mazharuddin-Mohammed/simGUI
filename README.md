@@ -40,6 +40,6 @@ Requirements
 
 Author & License
 ----------------
-(c) 2025 Your Name. All rights reserved.
+(c) 2025 Dr. Mazharuddin Mohammed. All rights reserved.
 
 """
